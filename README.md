@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm computer science student who passionate in coding.<br>Willing to learn as many things as I could.<br>1% improvement everyday and stay hard.
+Keep Working.
 
 
 # 💻 Tech Stack:
